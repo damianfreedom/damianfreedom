@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**damianfreedom/damianfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Damian 👋
+Gameplay Programmer working in Unreal Engine 5 and C++, with a background in Python and algorithmic trading systems.
+🎮 Currently building Mimik, a multiplayer hide-and-seek game for Steam (UE5, C++)
+🎓 BSc in Computer Science (KUL, 2023), thesis: FPS in Unreal Engine 5
+📈 Previously: algorithmic trading developer (Python, C++, MQL4/5) and co-founder & CTO of a fintech start-up
+🤖 Daily AI-assisted workflow: Claude Code, OpenAI API, n8n
+🌍 Based in Poland, open to remote work (EU)
+Tech
+`C++` `Unreal Engine 5` `Python` `SQL` `Java` `JavaScript` `MQL4/5` `Git` `Docker` `Linux`
+Contact
+LinkedIn
