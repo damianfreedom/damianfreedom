@@ -10,7 +10,7 @@
 
 ## Tech
 
-`C++` `Unreal Engine 5` `Python` `SQL` `Java` `JavaScript` `MQL4/5` `Git` `Docker` `Linux`
+`C++` `Unreal Engine 5` `Python` `SQL` `Java` `JavaScript` `MQL4/5` `Git` `Docker` `Linux` `AI`
 
 ## Contact
 
